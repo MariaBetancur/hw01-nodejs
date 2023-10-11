@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "commander": "^11.0.0",
+    "node": "^16.13.1",
+    "picocolors": "^1.0.0",
+    "uuid": "^9.0.1",
+    "yargs": "^17.7.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
